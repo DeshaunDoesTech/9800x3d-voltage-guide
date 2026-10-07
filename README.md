@@ -146,3 +146,13 @@ If this guide helped you understand your PC, you can support more practical tech
 **[☕ Buy me a coffee — DeshaunDoesTech](https://buymeacoffee.com/DeshaunDoesTech)**
 
 Support is optional. This independent guide is not affiliated with or endorsed by AMD.
+
+## License
+
+Copyright © 2026 DeshaunDoesTech.
+
+The original written content in this repository is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE). You may share and adapt it, including commercially, provided you give appropriate credit, link to the license, and indicate changes. See the [full license](LICENSE) for all terms.
+
+Suggested attribution: “Ryzen 7 9800X3D Voltage & Undervolting Guide” by [DeshaunDoesTech](https://github.com/DeshaunDoesTech/9800x3d-voltage-guide), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Indicate any changes you make.
+
+Third-party trademarks, logos, and linked materials remain subject to their respective rights and are not relicensed by this repository. Donations are optional and are not a condition of using the guide.
